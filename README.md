@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Ishal Fathima
 
-<!--
-**ishalfathimashani-glitch/ishalfathimashani-glitch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Computer Engineering Student at Bahçeşehir University**
 
-Here are some ideas to get you started:
+I'm building my foundation in programming, software development, and computer engineering, with a growing interest in cybersecurity, artificial intelligence, and emerging technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Technical Skills & Learning
+- C++
+- Python
+- SQL / MySQL
+- Programming Fundamentals
+- Git & GitHub
+
+### Areas of Interest
+- Cybersecurity
+- Network Security
+- Digital Forensics
+- Industrial & Operational Technology Security
+- AI in Cyber Defense
+
+### Currently Working Towards
+- Strengthening programming and problem-solving skills.
+- Developing practical software projects.
+- Exploring cybersecurity concepts and security practices.
+- Understanding how emerging technologies shape the future of cyber defense.
+
+---
+
+*Learning, building, and documenting my journey in technology.*
